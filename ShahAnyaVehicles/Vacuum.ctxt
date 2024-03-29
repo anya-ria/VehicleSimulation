@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Vacuum
+comment1.params=maxSize
+comment1.target=Vacuum(int)
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Act\ -\ do\ whatever\ the\ Vacuum\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment3.params=
+comment3.target=void\ redraw()
+numComments=4

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=Effect
+comment1.params=timeLeft\ totalFadeTime
+comment1.target=void\ fade(int,\ int)
+numComments=2

@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Alien
+comment0.text=\r\n\ Alien\ subclass\r\n
+comment1.params=direction
+comment1.target=Alien(int)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ slowDown()
+numComments=4

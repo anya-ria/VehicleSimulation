@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Astronaut
+comment0.text=\r\n\ Astronaut\ subclass\r\n
+comment1.params=direction
+comment1.target=Astronaut(int)
+comment2.params=
+comment2.target=void\ init()
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ slowDown()
+comment5.params=
+comment5.target=void\ playCaptureSound()
+comment6.params=
+comment6.target=void\ targetClosestAlien()
+comment6.text=\r\n\ Method\ that\ constantly\ check\ for\ closer\ aliens\r\n
+comment7.params=
+comment7.target=void\ moveTowardAlien()
+comment7.text=\r\n\ Method\ that\ moves\ toward\ the\ alien.\r\n
+numComments=8

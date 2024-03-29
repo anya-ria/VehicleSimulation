@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LaneSpawnCheck
+comment1.params=x\ y\ theTestVehicle
+comment1.target=LaneSpawnCheck(int,\ int,\ Vehicle)
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=boolean\ vehiclePresent()
+numComments=4

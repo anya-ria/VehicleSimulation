@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Utility
+comment1.params=width\ height\ density
+comment1.target=greenfoot.GreenfootImage\ drawStars(int,\ int,\ int)
+comment1.text=\r\n\ density\ should\ be\ 1-100.\ 100\ will\ be\ almost\ completely\ white\r\n
+numComments=2
